@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+mysql-connector-python
+pydantic
+python-dotenv
+twilio
+stripe
+passlib[bcrypt]
+pyjwt
+
